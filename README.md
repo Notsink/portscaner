@@ -29,6 +29,6 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dark-port-scanner.git
-cd dark-port-scanner
-python3 dark_port_scanner.py
+git clone https://github.com/Notsink/portscanner.git
+cd portscanner
+python3 portscanner.py
