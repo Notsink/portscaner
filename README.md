@@ -5,6 +5,15 @@
 
 ---
 
+| Task                | Input Example |
+| ------------------- | ------------- |
+| Top 20 common ports | `top-20`      |
+| Custom range        | `1-1024`      |
+| Single port         | `443`         |
+| Subnet sweep        | `10.0.0.0/24` |
+
+---
+
 ## Features
 - **TCP Port Scanning**  
   Asynchronous, high-speed scanning with configurable port lists.
